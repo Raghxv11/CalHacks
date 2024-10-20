@@ -31,7 +31,7 @@ const About = () => {
             needed to solve complex challenges, stifling creativity and limiting
             competition in an industry ripe for innovation. 
             <br /><br />
-            We are building an
+            Airpool is an
             open-source decentralized network that allows individuals and
             startups to contribute their unused GPU resources. By pooling
             these resources, we create a shared infrastructure for distributing
