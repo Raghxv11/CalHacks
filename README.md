@@ -1,5 +1,5 @@
 # Cal Hacks 11.0 Project
-# AIRPOOL
+<h1 align="center">AIRPOOL</h1>
 
 ![image](https://github.com/user-attachments/assets/006d0a8f-3eff-440a-a0de-b52de78ab131)
 
