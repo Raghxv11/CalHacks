@@ -1,0 +1,24 @@
+{
+  "project_name": "AI Model Training",
+  "allocated_resources": {
+    "agent1qvj5guxlje4vtdsu2k64ak3ecp3nf8d5g3r0phcgkxgqmd9ed5pejdstwsa": {
+      "agent_id": "dstwsa",
+      "gpu_count": 13,
+      "memory_gb": 16,
+      "availability_hours": 20
+    },
+    "agent1q0cc9epa3znwspy8mxss7ywkefag3a0alvwhn9jqt0s9z3xwvn38ur8sd72": {
+      "agent_id": "8sd72",
+      "gpu_count": 13,
+      "memory_gb": 48,
+      "availability_hours": 20
+    },
+    "agent1qfk86z7v3npp4qzjxvda3gdlka5czzjk8ml2vekrvdwc4el3rlh4k0mkr5m": {
+      "agent_id": "0mkr5m",
+      "gpu_count": 4,
+      "memory_gb": 0,
+      "availability_hours": 19
+    }
+  },
+  "total_duration": 19
+}

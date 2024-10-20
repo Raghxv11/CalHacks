@@ -1,0 +1,15 @@
+{
+  "agent1qfqva0rtdaqpqhgvjs52ccp93skvgpelt3sh0807fde2v3m2zkcd7rzw2q8": {
+    "gpu_count": 8,
+    "memory_gb": 8,
+    "availability_hours": 4
+  },
+  "agent1q0ylf45shh08e70nfn6hprammzxxggqr807e5zvs3ckhsaav4q7c7vp0fnz": {
+    "role": "lead"
+  },
+  "agent1qd7c89j39lmnfz64muc3uq9y8l6jheq4au7ag5wr9ttfjerqac4vw3wffax": {
+    "gpu_count": 24,
+    "memory_gb": 36,
+    "availability_hours": 12
+  }
+}

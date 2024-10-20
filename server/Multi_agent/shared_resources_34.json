@@ -1,0 +1,55 @@
+{
+  "agent1q0ylf45shh08e70nfn6hprammzxxggqr807e5zvs3ckhsaav4q7c7vp0fnz": {
+    "role": "lead"
+  },
+  "agent1qdujh4el4dfw0aq8asgjskzsd0u7mezyy0f5s6554m6czwh92s7rq9e57st": {
+    "gpu_count": 8,
+    "memory_gb": 32,
+    "availability_hours": 23
+  },
+  "agent1qwxzq7qca8gnclkfrl7knvv86f49flywuqqltemf4vguvxdpl0auqn0vgx5": {
+    "gpu_count": 7,
+    "memory_gb": 16,
+    "availability_hours": 24
+  },
+  "agent1qglc00neh5mhw8r4sckdfcjnl6q9su4q9dszywccuzaq489wt5xagj0n6ql": {
+    "gpu_count": 16,
+    "memory_gb": 16,
+    "availability_hours": 24
+  },
+  "agent1q2zwfvyfyfg6y84p9e9ewl0zrqygla6wsu2szp43uzlwavdekpepv2uu5p0": {
+    "gpu_count": 7,
+    "memory_gb": 32,
+    "availability_hours": 9
+  },
+  "agent1qfw6ew4sztgax9uue0hptkr6x93dnsva5nyq2en966c6kgy9vlh0wvlpknh": {
+    "gpu_count": 13,
+    "memory_gb": 16,
+    "availability_hours": 9
+  },
+  "agent1qw7dkuazudszwnzdcq9e42tm23mfxsvacftd4crz0cddwwyqt5fsw87v94e": {
+    "gpu_count": 5,
+    "memory_gb": 16,
+    "availability_hours": 13
+  },
+  "agent1qvdt2cuqhpyeq838vna2sy6pnhrp6n2dqhg63ngyfczf8rhp8krh5zkc2rs": {
+    "gpu_count": 13,
+    "memory_gb": 16,
+    "availability_hours": 20
+  },
+  "agent1qd6n8pa27lj5hraa52mklpafk3dsdamdr6cmae52cjqde3f0c0s7g02kvnv": {
+    "gpu_count": 13,
+    "memory_gb": 8,
+    "availability_hours": 24
+  },
+  "agent1qtcey0ev4xu7puceaqmj3z20utum6jm93y4zttlnguvqqau0hq3tgk7elen": {
+    "gpu_count": 3,
+    "memory_gb": 16,
+    "availability_hours": 10
+  },
+  "agent1qg3c0csjl7v5z8yl4pcw4ntvqnqhsn0pm4extp75pe6jylu8tuhtwrz9z5l": {
+    "gpu_count": 4,
+    "memory_gb": 64,
+    "availability_hours": 7
+  }
+}

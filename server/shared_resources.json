@@ -1,0 +1,61 @@
+{
+  "agent1q0ylf45shh08e70nfn6hprammzxxggqr807e5zvs3ckhsaav4q7c7vp0fnz": {
+    "role": "lead",
+    "requirements": {
+      "project_name": "AI Model Training",
+      "required_gpu": 30,
+      "required_memory": 64,
+      "task_description": "Training a large language model"
+    }
+  },
+  "agent1qgnnjyyqj9spywpysk8gemn6366r2353aqh8aqztqvskeprgmhzlw7fcqcy": {
+    "gpu_count": 13,
+    "memory_gb": 32,
+    "availability_hours": 12
+  },
+  "agent1qvksk853l9jl347rvk9llf4f8rh4020p9ru8annzhggc469jmwyfuq5wv7h": {
+    "gpu_count": 10,
+    "memory_gb": 16,
+    "availability_hours": 17
+  },
+  "agent1qfdyajvz4gersa7z23nwjxywn5enyd435xj4mkkvrktce3n9zc2j6rry2v5": {
+    "gpu_count": 9,
+    "memory_gb": 64,
+    "availability_hours": 12
+  },
+  "agent1qvzcqfs0uhq9resjfrm5g2eryfs634ay7qdstrre2p8k3nryheevwsgwv85": {
+    "gpu_count": 15,
+    "memory_gb": 32,
+    "availability_hours": 9
+  },
+  "agent1qvu452hpu6gvrggffj723zgd7cz5600skr64wst6zqw9kf3p079js2nsczr": {
+    "gpu_count": 13,
+    "memory_gb": 32,
+    "availability_hours": 10
+  },
+  "agent1q0j2csqp56m7dg9ukwpl8pe3ch40s5ezlvwkn07rq7mwnlnvpgvf544uv5u": {
+    "gpu_count": 8,
+    "memory_gb": 32,
+    "availability_hours": 4
+  },
+  "agent1qwc53tc0sncdwlgp3yz3lxfja2lh7jqkz42krjjt9ughyz9cz2z5yrfp8c8": {
+    "gpu_count": 8,
+    "memory_gb": 64,
+    "availability_hours": 16
+  },
+  "agent1qfyu3cn5ezxue0aj5dukts6zwjrmv2aak23ppp78vc20kfpedhkpkglk5cu": {
+    "gpu_count": 2,
+    "memory_gb": 128,
+    "availability_hours": 21
+  },
+  "agent1qv9ry5ctkt5gcm2g5f5594754d97anwyueu955w8gxschzhjgxwvyjdk33m": {
+    "gpu_count": 4,
+    "memory_gb": 64,
+    "availability_hours": 2
+  },
+  "agent1qfyatevz30ce9y2jt44lq5p0zl3tmnpw9gmwygtsw56aq9vl72337m00j5q": {
+    "gpu_count": 8,
+    "memory_gb": 16,
+    "availability_hours": 16
+  }
+}

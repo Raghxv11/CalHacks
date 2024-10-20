@@ -1,0 +1,37 @@
+[
+  {
+    "agent_id": "4j8gw",
+    "gpu_count": "8",
+    "memory_gb": "64",
+    "availability_hours": "9",
+    "status": "active"
+  },
+  {
+    "agent_id": "8ucep",
+    "gpu_count": "6",
+    "memory_gb": "0",
+    "availability_hours": "23",
+    "status": "active"
+  },
+  {
+    "agent_id": "hmfay",
+    "gpu_count": "4",
+    "memory_gb": "0",
+    "availability_hours": "1",
+    "status": "active"
+  },
+  {
+    "agent_id": "5a2yt",
+    "gpu_count": "2",
+    "memory_gb": "0",
+    "availability_hours": "19",
+    "status": "active"
+  },
+  {
+    "agent_id": "grs3g",
+    "gpu_count": "2",
+    "memory_gb": "0",
+    "availability_hours": "15",
+    "status": "active"
+  }
+]
