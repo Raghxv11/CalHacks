@@ -13,7 +13,10 @@
     --foreground: #ededed;
   }
 }
-
+/* Add this to your global CSS file */
+html {
+  scroll-behavior: smooth;
+}
 body {
   color: var(--foreground);
   background: var(--background);

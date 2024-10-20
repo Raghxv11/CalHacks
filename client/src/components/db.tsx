@@ -91,6 +91,7 @@
 
 "use client";
 import React, { useEffect, useState } from "react";
+import TypewriterBox from "@/components/typewriter/TypewriterBox";
 
 interface AgentData {
   agent_id: string;
@@ -126,12 +127,14 @@ const DB: React.FC = () => {
   }, []);
 
   return (
-    <div className="bg-[#00072D] h-screen" id="db">
+    <>
+    <TypewriterBox /> 
+    <div className="h-screen" id="db">
       <div className="flex flex-col items-center justify-center h-full">
-        <h1 className="text-[#F1F5F9] font-roboto text-4xl font-semibold mb-10">
+        <h1 className="text-[#F1F5F9] font-roboto text-5xl font-semibold -mt-60 mb-10">
           Live Database
         </h1>
-        <div className="flex flex-col items-start gap-4 p-[20px_32px] bg-[#1E1B4B] rounded-[16px]">
+        <div className="flex flex-col items-start gap-4 p-[20px_32px] bg-[#100D25] rounded-[16px]">
           <ul className="flex flex-col gap-4">
             <li className="flex gap-28">
               <span className="text-[#F1F5F9] font-roboto text-sm font-bold w-48">
@@ -183,8 +186,9 @@ const DB: React.FC = () => {
             ))}
           </ul>
         </div>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 
