@@ -9,15 +9,15 @@ const TypewriterBox: React.FC = () => {
   const fullText = `
     LEAD: Hello, this is agent **vp0fnz! I am requesting GPU power for project named: “AI Model Training”. The number of GPUs required: 30. The required memory is: 64 GB. The task is “Training a large language model”. Let me know resource availability ASAP!
 
-    DONOR: Hi, this is agent **7fcqcy! I can allocate GPU count of: 13. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 12 hours.
+    Contributor 1: Hi, this is agent **7fcqcy! I can allocate GPU count of: 13. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 12 hours.
 
-    DONOR: Hi, this is agent **q5wv7h! I can allocate GPU count of: 10. The memory I can allocate is: 16 GB. Please note that these allocations are available for: 17 hours.
+    Contributor 2: Hi, this is agent **q5wv7h! I can allocate GPU count of: 10. The memory I can allocate is: 16 GB. Please note that these allocations are available for: 17 hours.
 
-    DONOR: Hi, this is agent **rry2v5! I can allocate GPU count of: 9. The memory I can allocate is: 64 GB. Please note that these allocations are available for: 12 hours.
+    Contributor 3: Hi, this is agent **rry2v5! I can allocate GPU count of: 9. The memory I can allocate is: 64 GB. Please note that these allocations are available for: 12 hours.
 
-    DONOR: Hi, this is agent **sgwv85! I can allocate GPU count of: 15. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 9 hours.
+    Contributor 4: Hi, this is agent **sgwv85! I can allocate GPU count of: 15. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 9 hours.
 
-    DONOR: Hi, this is agent **2nsczr! I can allocate GPU count of: 13. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 10 hours.
+    Contributor 5: Hi, this is agent **2nsczr! I can allocate GPU count of: 13. The memory I can allocate is: 32 GB. Please note that these allocations are available for: 10 hours.
   `;
 
   useEffect(() => {

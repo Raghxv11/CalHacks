@@ -25,15 +25,13 @@ const About = () => {
           <p className="text-white text-lg mt-8">
             Imagine a world where innovation knows no bounds, where even the
             smallest startups can harness the power of advanced computational
-            resources. Currently, the GPU market is dominated by Nvidia, which
-            controls a staggering 90% of the market share. This leaves small
-            developers and startups struggling to access the computational power
+            resources. While big tech companies spend millions of dollars on their GPU infrastructure, small
+            developers and startups struggle to access the computational power
             needed to solve complex challenges, stifling creativity and limiting
             competition in an industry ripe for innovation. 
             <br /><br />
             Airpool is an
-            open-source decentralized network that allows individuals and
-            startups to contribute their unused GPU resources. By pooling
+            open-source decentralized network that allows individuals to contribute their unused GPU resources. By pooling
             these resources, we create a shared infrastructure for distributing
             computational services that are accessible to small companies and
             developers. This empowers them to tackle sophisticated AI models and
