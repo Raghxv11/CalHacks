@@ -4,7 +4,7 @@
     background: transparent;
     box-shadow: 0px 8px 28px -9px rgba(0,0,0,0.45);
     position: relative;
-    width: 850px;  /* Adjust width to make the card bigger */
+    width: 900px;  /* Adjust width to make the card bigger */
     height: 600px; /* Same as width to make it a square */
     border-radius: 16px;
     overflow: hidden;

@@ -135,7 +135,7 @@ const DB: React.FC = () => {
           Live Database
         </h1>
         <div className="flex flex-col items-start gap-4 p-[20px_32px] bg-[#100D25] rounded-[16px]">
-          <ul className="flex flex-col gap-4">
+          <ul className="flex flex-col gap-6">
             <li className="flex gap-28">
               <span className="text-[#F1F5F9] font-roboto text-sm font-bold w-48">
                 Agent Address
