@@ -1,7 +1,9 @@
-# Cal Hacks 11.0 Project
+![WhatsApp Image 2024-10-20 at 10 19 05_eaa71ea8](https://github.com/user-attachments/assets/c6a9a044-3bc5-4dc3-b064-498225b4e4cf)# Cal Hacks 11.0 Project
 
 ![image](https://github.com/user-attachments/assets/006d0a8f-3eff-440a-a0de-b52de78ab131)
 
+## Project Flow
+![flow](https://github.com/user-attachments/assets/a04bab48-4acb-4480-bcfa-873aee06ca55)
 
 
 ## About Us
