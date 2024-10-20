@@ -8,15 +8,15 @@
 Airpool is open-source decentralized network that allows individuals and startups to contribute their unused GPU resources. By pooling these resources, we create a shared infrastructure for distributing computational services that are accessible to small companies and developers. 
 This empowers them to tackle sophisticated AI models and perform large-scale data analysis without heavy upfront investment in GPU hardware.
 
-## Features
-- [List the main features of your project.]
-- [Feature 2]
-- [Feature 3]
+## Project Flow
+- Lead agent communicates the project's computational requirements to contributor agents
+- Contributor agents receive the project requirements and share their unused computational availability to moderator agent
+- Moderator agent receives the specifications and dynamically allocates the resources and adds it to the database
 
 ## Tech Stack
 - **Frontend**: Next.js + Typescript
 - **Backend**: Python, Flask
-- **Other Technologies**: [List other libraries, APIs, or tools used.]
+- **Other Technologies**: Fetch.ai
 
 ## Getting Started
 
@@ -63,12 +63,3 @@ Make sure you have the following installed:
 
 3. **Access the Project:**
    Open your web browser and navigate to `http://localhost:3000`.
-
-## Contributing
-[Provide guidelines for how others can contribute to the project, if applicable.]
-
-## License
-[Include the license under which the project is distributed, if applicable.]
-
-## Acknowledgments
-[Thank any contributors, resources, or libraries that helped with the project.]
