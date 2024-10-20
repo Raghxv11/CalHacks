@@ -1,9 +1,10 @@
 # Cal Hacks 11.0 Project
+# AIRPOOL
 
 ![image](https://github.com/user-attachments/assets/006d0a8f-3eff-440a-a0de-b52de78ab131)
 
 ## Project Flow
-![flow](https://github.com/user-attachments/assets/a04bab48-4acb-4480-bcfa-873aee06ca55)
+![Untitled_Diagram.drawio(3)[1].png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ecec224f-21a6-48d2-9883-a27a553d0dbe/d53eec05-42ec-4fbf-8475-66097631b8bd/Untitled_Diagram.drawio(3)1.png)
 
 
 ## About Us
@@ -24,39 +25,70 @@ Make sure you have the following installed:
 - Node.js
 - Python 3.x
 - npm (Node Package Manager)
+- Poetry
 
-### Installation
+### Installation and Setup
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Raghxv11/CalHacks.git
-   cd yourprojectname
+   cd CalHacks
    ```
 
-2. **Install dependencies for the client:**
+2. **Set up the backend:**
    ```bash
-   cd client
+   cd server/Multi_agent
+   ```
+
+3. **Initialize and activate virtual environment:**
+   We use Poetry to manage our Python environment (optional but recommended):
+   ```bash
+   poetry init -n && poetry shell
+   ```
+
+4. **Install uAgents Framework and other dependencies:**
+   ```bash
+   poetry add uagents
+   ```
+
+5. **Verify installation:**
+   ```bash
+   poetry show uagents
+   ```
+
+6. **Install frontend dependencies:**
+   ```bash
+   cd ../../client
    npm install
-   ```
-
-3. **Navigate back to the root directory:**
-   ```bash
-   cd ..
    ```
 
 ## Running the Project
 
 1. **Start the Backend Server:**
+   In the `server` directory:
    ```bash
-   cd server
    python server.py
    ```
 
-2. **Start the Frontend Development Server:**
+2. **Run the Multi-Agent System:**
+   In a new terminal, navigate to `server/Multi_agent` and run:
    ```bash
-   cd ../client
+   python run_simulation.py
+   ```
+
+3. **Start the Frontend Development Server:**
+   In another terminal, navigate to the `client` directory and run:
+   ```bash
    npm run dev
    ```
 
-3. **Access the Project:**
+4. **Access the Project:**
    Open your web browser and navigate to `http://localhost:3000`.
+
+## Project Structure
+
+- `/server`: Contains the backend server and multi-agent system
+  - `/Multi_agent`: Houses the AirPool multi-agent system
+- `/client`: Contains the frontend React application
+```
+
